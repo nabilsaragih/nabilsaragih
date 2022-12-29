@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nabilsaragih
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Calculus
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me? DM me via Instagram at @nabilsaragih._
 
