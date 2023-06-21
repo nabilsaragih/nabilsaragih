@@ -1,4 +1,4 @@
-## Hi there, my name's Nabil! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+# Hi there, my name's Nabil! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 <div>
     An Informatics student at <a href="https://unmul.ac.id/">Mulawarman University</a> and a passionate programmer from Indonesia. I'm really open to any collaboration. Feel free to connect with me in this page below.
