@@ -4,6 +4,8 @@
     An Informatics student at <a href="https://unmul.ac.id/">Mulawarman University</a> and a passionate programmer from Indonesia. I'm really open to any collaboration. Feel free to connect with me in this page below.
 </div>
 
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nabilsaragih&label=Profile%20views&color=0e75b6&style=flat" alt="nabilsaragih" /> </p>
 
 ## ⚡ Tech stacks
 
