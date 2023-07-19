@@ -39,7 +39,7 @@
 
 ## ✅  Badges from Hacktoberfest 2022
 
-[![@nabilsaragih's Holopin board](https://holopin.me/nabilsaragih)](https://holopin.io/@nabilsaragih)
+[![An image of @nabilsaragih's Holopin badges](https://holopin.me/nabilsaragih)](https://holopin.io/@nabilsaragih)
 
 <div align="center">
   <h3>Feel free to connect with me here.</h3>
