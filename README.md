@@ -22,7 +22,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
@@ -33,8 +32,8 @@
 
 ## 📊  Stats
 
-![Nabil Saragih's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabilsaragih&include_all_commits=true&count_private=true&show_icons=true&line_height=20&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilsaragih&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact)
+![Nabil Saragih's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Kuuhaku456&include_all_commits=true&count_private=true&show_icons=true&line_height=20&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabilsaragih&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact)
 
 
 ## ✅  Badges from Hacktoberfest 2022
