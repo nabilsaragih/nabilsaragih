@@ -32,7 +32,7 @@
 
 ## 📊  Stats
 
-![Nabil Saragih's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Kuuhaku456&include_all_commits=true&count_private=true&show_icons=true&line_height=20&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+![Nabil Saragih's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=nabilsaragih&include_all_commits=true&count_private=true&show_icons=true&line_height=20&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabilsaragih&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact)
 
 
