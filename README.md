@@ -5,8 +5,10 @@
 </div>
 
 <br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nabilsaragih&label=Profile%20views&color=0e75b6&style=flat" alt="nabilsaragih" /> </p>
 
+<!---
 ## ⚡ Tech stacks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,6 +41,7 @@
 ## ✅  Badges from Hacktoberfest 2022
 
 [![An image of @nabilsaragih's Holopin badges](https://holopin.me/nabilsaragih)](https://holopin.io/@nabilsaragih)
+--->
 
 <div align="center">
   <h3>Feel free to connect with me here.</h3>
@@ -49,12 +52,14 @@
     </p>
 </div>
 
+<!---
 ## ⭐  Activity Frequency
 
 <div align="center">
 <a href="https://github.com/nabilsaragih">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nabilsaragih&theme=2077" height="180em" />
 </div>
+--->
 
 <!---
 nabilsaragih/nabilsaragih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
